@@ -7,6 +7,6 @@ s.license      = 'MIT'
 s.authors      = {'zdx' => '18259129536@163.com'}
 s.platform     = :ios, '8.0'
 s.source       = {:git => 'https://github.com/Dongxi729/ZDX.git', :tag => s.version}
-s.source_files = 'TestCal/**/*.{h,m}'
+s.source_files = 'ABC/**/*.{h,m}'
 s.requires_arc = true
 end
