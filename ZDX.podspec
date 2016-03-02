@@ -1,13 +1,12 @@
 Pod::Spec.new do |s|
 s.name         = 'ZDX'
-s.version      = '1.0.6'
+s.version      = '1.0.7'
 s.summary      = 'An easy way to use pull-to-refresh'
 s.homepage     = 'https://github.com/Dongxi729/ZDX'
 s.license      = 'MIT'
 s.authors      = {'zdx' => '18259129536@163.com'}
 s.platform     = :ios, '8.0'
-s.source       = {:git => 'https://github.com/Dongxi729/ZDX.git', :tag => s.version}
+s.source       = {:git => 'https://github.com/Dongxi729/ZDX.git', :tag => 'v1.0.7'}
 s.source_files = 'ZDX','ABC/**/*.{h,m}'
 s.requires_arc = true
-end
 end
