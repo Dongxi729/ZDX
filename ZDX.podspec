@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'ZDX'
-s.version      = '1.0.4'
+s.version      = '1.0.5'
 s.summary      = 'An easy way to use pull-to-refresh'
 s.homepage     = 'https://github.com/Dongxi729/ZDX'
 s.license      = 'MIT'
